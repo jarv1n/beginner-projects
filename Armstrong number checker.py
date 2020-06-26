@@ -1,6 +1,4 @@
-# Armstron number identifier
-# functions, for loops, lists, if-else statements
-
+# Armstrong number identifier
  
 def length(user_number):
     n = len(user_number)
