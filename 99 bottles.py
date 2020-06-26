@@ -1,5 +1,4 @@
 # 99 bottles 
-# functions, list, if-elif-else statements
 
 def botlle_99():
     for i in reversed(range(0, 100)):
