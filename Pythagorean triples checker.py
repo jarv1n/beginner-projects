@@ -1,5 +1,4 @@
 # pythagorean triples checker
-# functions, if-elif-else statements,
 
 print('Welcome to Pyhtagorean Triples Checker!')
 
